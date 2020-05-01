@@ -1,0 +1,9 @@
+{
+    "profileId" : "pico-goblin-v2",
+    "overrides" : {
+        "left-right": {
+            "rootNodeName": "pico_goblin_v2_none",
+            "assetPath": "none.glb"
+        }
+    }
+}
