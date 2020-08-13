@@ -1,5 +1,5 @@
 {
-    "profileId": "pico-neo-v2",
+    "profileId": "pico-neo2",
     "fallbackProfileIds": ["generic-trigger-squeeze-thumbstick"],
     "layouts": {
         "left": {
