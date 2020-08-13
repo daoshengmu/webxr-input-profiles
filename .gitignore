@@ -5,5 +5,4 @@ npm-debug*.log*
 lerna*.log
 packages/assets/dist/
 packages/registry/dist/
-packages/viewer/dist/
 packages/motion-controllers/dist/
