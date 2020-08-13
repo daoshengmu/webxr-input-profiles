@@ -1,5 +1,5 @@
 {
-  "profileId": "pico-goblin-v2",
+  "profileId": "pico-g2",
   "fallbackProfileIds": [ "generic-trigger-touchpad"],
   "layouts": {
       "left-right-none": {
